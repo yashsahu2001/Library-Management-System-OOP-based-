@@ -37,7 +37,8 @@ Library Management System:
 3. Borrow Book
 4. Return Book
 5. Display Books
-6. Exit
+6. Track Borrowing Status
+7. Exit
 Enter your choice: 1
 Enter book ID: 1
 Enter title: Python Basics
